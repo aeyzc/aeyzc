@@ -1,4 +1,3 @@
-![](https://i.hizliresim.com/5b89fdx.png)
+[<img src="Images/../Images/mail.jpg" alt="mail" width="190" height="190"/>](mailto:aeyazc@gmail.com)[<img src="Images/../Images/linkedin.jpg" alt="linkedin" width="190" height="190"/>](https://www.linkedin.com/in/aeyzc/)[<img src="Images/../Images/logo.jpg" alt="aeyzc" width="190" height="190"/>](http://aeyzc.com)[<img src="Images/../Images/twitter.jpg" alt="twitter" width="190" height="190"/>](https://twitter.com/aeyzc)[<img src="Images/../Images/games.jpg" alt="games" width="190" height="190"/>](https://aeyzc.itch.io/)
 
-[email](mailto:aeyazc@gmail.com) | [linkedin](https://www.linkedin.com/in/aeyzc/) | [twitter](https://twitter.com/aeyzc) | [itchio](https://aeyzc.itch.io/) 
-
+![Stats](https://github-readme-stats.vercel.app/api?username=aeyzc&show_icons=true&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=DEG,c1ffbb,00ffa2&include_all_commits=true&count_private=true&layout=default&hide=issues,prs)
