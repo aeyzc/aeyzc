@@ -21,5 +21,9 @@
       </a>
 </p>
 <p align="center">
+      <img alt="bar" src="Images/bar.gif"
+         width=775" height="1">
+</p>
+<p align="center">
 <img class="img" src="https://github-readme-stats.vercel.app/api?username=aeyzc&show_icons=true&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=DEG,c1ffbb,00ffa2&include_all_commits=true&count_private=true&hide=issues,prs"/>
 </p>
