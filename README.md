@@ -30,6 +30,6 @@
 </p>
 
 <div align="center">
-<img width="405em" src="https://github-readme-streak-stats.herokuapp.com/?user=aeyzc&background=c1ffbb&ring=000000&fire=000000&stroke=000000&date_format=j/n/Y&currStreakLabel=000000" alt="aeyzc" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=aeyzc&show_icons=true&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=DEG,c1ffbb,00ffa2&include_all_commits=true&count_private=true&hide=issues,prs"/>
+<img width="340em" src="https://github-readme-streak-stats.herokuapp.com/?user=aeyzc&background=c1ffbb&ring=000000&fire=000000&stroke=000000&date_format=j/n/Y&currStreakLabel=000000" alt="aeyzc" />
+<img height="135em" src="https://github-readme-stats.vercel.app/api?username=aeyzc&show_icons=true&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=DEG,c1ffbb,00ffa2&include_all_commits=true&count_private=true&hide=issues,prs"/>
 </div>
