@@ -1,4 +1,8 @@
 <p align="center">
+      <img width=800" src="https://capsule-render.vercel.app/api?type=waving&height=100&text=Contact&fontColor=000000&&color=0:C1FFBB,100:00FFA2&fontSize=60&fontAlign=75&fontAlignY=35"/>
+</p>
+
+<p align="center">
    <a href="mailto:aeyazc@gmail.com">
          <img alt="Mail" src="Images/mail.jpg"
          width=150" height="150">
@@ -20,10 +24,12 @@
          width=150" height="150">
       </a>
 </p>
+
 <p align="center">
-      <img alt="bar" src="Images/bar.gif"
-         width=775" height="1">
+      <img width=800" src="https://capsule-render.vercel.app/api?type=waving&height=100&text=Stats&fontColor=000000&&color=0:C1FFBB,100:00FFA2&fontSize=60&fontAlign=75&fontAlignY=35"/>
 </p>
-<p align="center">
-<img class="img" src="https://github-readme-stats.vercel.app/api?username=aeyzc&show_icons=true&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=DEG,c1ffbb,00ffa2&include_all_commits=true&count_private=true&hide=issues,prs"/>
-</p>
+
+<div align="center">
+<img width="405em" src="https://github-readme-streak-stats.herokuapp.com/?user=aeyzc&background=c1ffbb&ring=000000&fire=000000&stroke=000000&date_format=j/n/Y&currStreakLabel=000000" alt="aeyzc" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=aeyzc&show_icons=true&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=DEG,c1ffbb,00ffa2&include_all_commits=true&count_private=true&hide=issues,prs"/>
+</div>
