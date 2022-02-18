@@ -38,6 +38,6 @@
 
 <h3 align="center">Stats</h3>
 <div align="center">
-<img width="340em" src="https://github-readme-streak-stats.herokuapp.com/?user=aeyzc&background=c1ffbb&ring=000000&fire=000000&stroke=000000&date_format=j/n/Y&currStreakLabel=000000" alt="aeyzc" />
-<img height="135em" src="https://github-readme-stats.vercel.app/api?username=aeyzc&show_icons=true&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=DEG,c1ffbb,00ffa2&include_all_commits=true&count_private=true&hide=issues,prs"/>
+<img width="340em" src="https://github-readme-streak-stats.herokuapp.com/?user=aeyzc&background=0a0c10&ring=87ffb0&fire=87ffb0&stroke=c1ffbb&date_format=j/n/Y&currStreakLabel=87ffb0&sideNums=87ffb0&sideLabels=87ffb0&dates=87ffb0&currStreakNum=87ffb0&border=87ffb0" alt="aeyzc" />
+<img height="135em" src="https://github-readme-stats.vercel.app/api?username=aeyzc&show_icons=true&hide_border=false&title_color=35ffa7&text_color=87ffb0&icon_color=35ffa7&bg_color=0a0c10&border_color=87ffb0&include_all_commits=true&count_private=true&hide=issues,prs"/>
 </div>
