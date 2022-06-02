@@ -1,4 +1,4 @@
-# <h1 align="center">Hi, I'm Ali Emre<a><img src="Images/wave.gif" width="45px" /></h1>
+# <h1 align="center">Hi, I'm Ali Emre🖐🏻<a></h1>
     
 <p align="center">
     <a href="http://aeyzc.com">
