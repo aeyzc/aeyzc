@@ -8,9 +8,8 @@
 
 <div>
 <h3 align="left">About Me</h3>
-👨🏻‍💻 I'm Ali Emre. I am 22 years old software developer from Turkey.<br>
-💻 I’m currently working as a junior game developer at Stratera Games.<br>
-📚 I’m a final year computer engineering student at Konya Technical University.<br>
+👨🏻‍💻 I'm Ali Emre. I am 23 years old software developer from Turkey.<br>
+💻 I’m currently working as a game developer at Stratera Games.<br>
 🔗 <a href="https://www.aeyzc.com/">aeyzc.com</a> <br><br><br>
 
 <p align="center">
